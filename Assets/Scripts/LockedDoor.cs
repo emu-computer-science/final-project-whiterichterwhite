@@ -10,6 +10,8 @@ public class LockedDoor : MonoBehaviour
     public Text dialogText;
     public string dialog;
     public bool playerInRange;
+    public GameObject lockedDoor;
+    public GameObject key;
 
     // Start is called before the first frame update
     void Start()
@@ -22,7 +24,14 @@ public class LockedDoor : MonoBehaviour
     {
         if(playerInRange)
         {
-            StartCoroutine(dialogBoxCo());
+            if (!key.activeInHierarchy)
+            {
+                lockedDoor.SetActive(false);
+                dialog = "You have used the key to pass through the door! You win!";
+                StartCoroutine(dialogBoxCo());
+            }
+            else { StartCoroutine(dialogBoxCo()); }
+            
         }
     }
 
@@ -38,6 +47,7 @@ public class LockedDoor : MonoBehaviour
     {
         if(other.CompareTag("Player"))
         {
+            
             playerInRange = false;
         }
     }

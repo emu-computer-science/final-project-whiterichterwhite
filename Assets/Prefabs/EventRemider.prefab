@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 7357629143637695581}
   - component: {fileID: 7357629143637695582}
-  - component: {fileID: 7357629143637695583}
   m_Layer: 0
   m_Name: EventRemider
   m_TagString: Untagged
@@ -58,19 +57,3 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
---- !u!114 &7357629143637695583
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7357629143637695552}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5293b2df4cabb6b42ad83dbd6a86e507, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  dialogBox: {fileID: 0}
-  dialogText: {fileID: 0}
-  dialog: I need a Key.
-  playerInRange: 0
