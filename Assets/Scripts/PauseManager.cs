@@ -37,10 +37,11 @@ public class PauseManager : MonoBehaviour
     }
 
     //method to be used when we have our main menu scene actually made
-    //public void mainMenu() {
-    //    //whatever our actual main menu scene is going to be
-    //    SceneManager.LoadScene();
-    //         Time.timeScale = 1f;
-    //}
+    public void mainMenu()
+    {
+        //whatever our actual main menu scene is going to be
+        SceneManager.LoadScene("StartMenu");
+        Time.timeScale = 1f;
+    }
 
 }
