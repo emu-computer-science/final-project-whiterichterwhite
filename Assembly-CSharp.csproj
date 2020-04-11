@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\DialogBox.cs" />
     <Compile Include="Assets\Scripts\Key.cs" />
     <Compile Include="Assets\Scripts\LockedDoor.cs" />
+    <Compile Include="Assets\Scripts\PauseManager.cs" />
     <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\RoomMove.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
