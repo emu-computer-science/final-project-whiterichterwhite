@@ -24,7 +24,7 @@ public class InventoryManager : MonoBehaviour
             useButton.SetActive(false);
         }
     }
-
+    
 
     public void MakeInventorySlots() {
 
