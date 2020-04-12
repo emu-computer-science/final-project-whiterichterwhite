@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\DialogBox.cs" />
+    <Compile Include="Assets\Scripts\InventoryItem.cs" />
     <Compile Include="Assets\Scripts\InventoryScripts\InventoryItem.cs" />
     <Compile Include="Assets\Scripts\InventoryScripts\InventoryManager.cs" />
     <Compile Include="Assets\Scripts\InventoryScripts\InventorySlot.cs" />

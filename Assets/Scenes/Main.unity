@@ -5940,13 +5940,14 @@ GameObject:
   - component: {fileID: 1493820550}
   - component: {fileID: 1493820552}
   - component: {fileID: 1493820551}
+  - component: {fileID: 1493820553}
   m_Layer: 5
   m_Name: InventoryPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1493820550
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6005,6 +6006,24 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1493820549}
   m_CullTransparentMesh: 0
+--- !u!114 &1493820553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1493820549}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c76f1ccaa7f3674d817839d3312ae1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerInv: {fileID: 0}
+  blankSlot: {fileID: 7457158765271975010, guid: 733af09d7fd118f448636e5319e37117,
+    type: 3}
+  invPanel: {fileID: 1881887634}
+  descText: {fileID: 78246025}
+  useButton: {fileID: 1748159595}
 --- !u!4 &1521603402 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8413370622930169837, guid: a02e8aec86268b846b4b6a0de053d3da,
@@ -7590,7 +7609,7 @@ GameObject:
   - component: {fileID: 1748159598}
   - component: {fileID: 1748159597}
   m_Layer: 5
-  m_Name: Button
+  m_Name: UseButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15164,7 +15183,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 8.16, y: 0}
-  m_SizeDelta: {x: -0.91, y: 0}
+  m_SizeDelta: {x: -0.91, y: 10}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1881887636
 MonoBehaviour:
