@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\DialogBox.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\InventoryScripts\HealthReaction.cs" />
     <Compile Include="Assets\Scripts\InventoryScripts\InventoryItem.cs" />
     <Compile Include="Assets\Scripts\InventoryScripts\InventoryManager.cs" />
     <Compile Include="Assets\Scripts\InventoryScripts\InventorySlot.cs" />
