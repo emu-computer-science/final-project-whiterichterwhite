@@ -46,6 +46,6 @@ TagManager:
   - name: Player
     uniqueID: 816314763
     locked: 0
-  - name: 
+  - name: HiddenWall
     uniqueID: 961962479
     locked: 0
