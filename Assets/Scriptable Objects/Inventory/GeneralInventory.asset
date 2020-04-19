@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: GeneralInventory
   m_EditorClassIdentifier: 
   playerInv:
-  - {fileID: 11400000, guid: 2c28da932025910478642589baf655a6, type: 2}
+  - {fileID: 11400000, guid: 919cf34dfa250a248bdb13355452e31a, type: 2}

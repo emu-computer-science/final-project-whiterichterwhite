@@ -28,26 +28,38 @@ public class InventoryManager : MonoBehaviour
         if (playerInv) {
 
             for (int i = 0 ; i < playerInv.playerInv.Count; i++) {
-                GameObject temp = Instantiate(blankSlot,invPanel.transform.position,Quaternion.identity);
-                temp.transform.SetParent(invPanel.transform);
-                InventorySlot newSlot = temp.GetComponent<InventorySlot>();
-                
-                newSlot.Setup(playerInv.playerInv[i], this);
-
+                if (playerInv.playerInv[i].numberHeld > 0) {
+                    GameObject temp = Instantiate(blankSlot, invPanel.transform.position, Quaternion.identity);
+                    temp.transform.SetParent(invPanel.transform);
+                    InventorySlot newSlot = temp.GetComponent<InventorySlot>();
+                    if (newSlot) {
+                        newSlot.Setup(playerInv.playerInv[i], this);
+                    }                    
+                }
             }
         }
     }
 
-
+    void ClearInventory() {
+        for (int i = 0; i < invPanel.transform.childCount; i++) {
+            Destroy(invPanel.transform.GetChild(i).gameObject);
+        }
+    }
     public void UseButtonPressed() {
         if (currentItem) {
             currentItem.UseItem();
+
+            //clear inventory slots
+            ClearInventory();
+            //refill all slots
+            MakeInventorySlots();
+            
         }
     }
 
 
     // Start is called before the first frame update
-    void Start()
+    void OnEnable()
     {
         MakeInventorySlots();
         SetTandB("", false, currentItem);

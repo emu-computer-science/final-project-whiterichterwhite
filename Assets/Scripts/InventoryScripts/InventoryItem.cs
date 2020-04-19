@@ -19,4 +19,14 @@ public class InventoryItem : ScriptableObject
         thisEvent.Invoke();
     }
 
+    public void DecreaseItem() {
+
+        numberHeld--;
+        if (numberHeld < 0)
+        {
+
+            numberHeld = 0;
+        }
+        
+    }
 }
