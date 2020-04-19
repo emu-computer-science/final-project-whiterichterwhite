@@ -42,7 +42,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 68519d1e1886fc346b8cd5b205a1c1b7, type: 3}
-    totalSpriteSurfaceArea: 1443980
+    totalSpriteSurfaceArea: 1460364
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -1193,6 +1193,70 @@ SpriteAtlas:
   - {fileID: 21300088, guid: 1a95a0755bc768443809a62f5492d5f6, type: 3}
   - {fileID: 21300146, guid: 1a95a0755bc768443809a62f5492d5f6, type: 3}
   - {fileID: 21300142, guid: 1a95a0755bc768443809a62f5492d5f6, type: 3}
+  - {fileID: 21300022, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300020, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300026, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300024, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300030, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300028, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300034, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300032, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300120, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300122, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300124, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300126, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300004, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300006, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300000, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300002, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300012, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300014, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300008, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300010, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300016, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300018, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300040, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300042, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300044, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300084, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300046, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300066, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300086, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300048, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300064, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300080, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300050, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300062, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300082, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300110, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300052, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300060, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300092, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300108, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300054, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300074, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300094, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300114, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300056, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300072, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300088, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300112, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300058, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300070, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300090, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300102, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300068, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300100, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300106, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300096, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300104, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300078, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300098, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300076, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300118, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300116, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300038, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
+  - {fileID: 21300036, guid: 85ef31a51fef925488e4524aa9caefa6, type: 3}
   - {fileID: 21300006, guid: 7cd8b716bc0f17e45bb7752d3e0d9768, type: 3}
   - {fileID: 21300004, guid: 7cd8b716bc0f17e45bb7752d3e0d9768, type: 3}
   - {fileID: 21300002, guid: 7cd8b716bc0f17e45bb7752d3e0d9768, type: 3}
@@ -2781,6 +2845,70 @@ SpriteAtlas:
   - character_44
   - character_73
   - character_71
+  - Food_11
+  - Food_10
+  - Food_13
+  - Food_12
+  - Food_15
+  - Food_14
+  - Food_17
+  - Food_16
+  - Food_60
+  - Food_61
+  - Food_62
+  - Food_63
+  - Food_2
+  - Food_3
+  - Food_0
+  - Food_1
+  - Food_6
+  - Food_7
+  - Food_4
+  - Food_5
+  - Food_8
+  - Food_9
+  - Food_20
+  - Food_21
+  - Food_22
+  - Food_42
+  - Food_23
+  - Food_33
+  - Food_43
+  - Food_24
+  - Food_32
+  - Food_40
+  - Food_25
+  - Food_31
+  - Food_41
+  - Food_55
+  - Food_26
+  - Food_30
+  - Food_46
+  - Food_54
+  - Food_27
+  - Food_37
+  - Food_47
+  - Food_57
+  - Food_28
+  - Food_36
+  - Food_44
+  - Food_56
+  - Food_29
+  - Food_35
+  - Food_45
+  - Food_51
+  - Food_34
+  - Food_50
+  - Food_53
+  - Food_48
+  - Food_52
+  - Food_39
+  - Food_49
+  - Food_38
+  - Food_59
+  - Food_58
+  - Food_19
+  - Food_18
   - ZombieIdles_3
   - ZombieIdles_2
   - ZombieIdles_1

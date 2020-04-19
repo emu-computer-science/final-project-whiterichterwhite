@@ -276,6 +276,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
+  maxHealth: {fileID: 0}
   health: 2
   enemyName: Loggy
   baseAttack: 1
@@ -776,8 +777,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -85.71, y: -123.12}
-  m_SizeDelta: {x: 279.18, y: 50}
+  m_AnchoredPosition: {x: -85.71, y: -140.64}
+  m_SizeDelta: {x: 279.18, y: 70.68}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &78246025
 MonoBehaviour:
@@ -8063,7 +8064,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1493820550
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8084,8 +8085,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -9.5}
-  m_SizeDelta: {x: 550, y: -79}
+  m_AnchoredPosition: {x: 0.000024796, y: 0}
+  m_SizeDelta: {x: 600, y: -100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1493820551
 MonoBehaviour:
@@ -8134,7 +8135,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c76f1ccaa7f3674d817839d3312ae1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerInv: {fileID: 0}
+  playerInv: {fileID: 11400000, guid: 0f1a24d96fa818f439d2457f3cfd1d60, type: 2}
   blankSlot: {fileID: 7457158765271975010, guid: 733af09d7fd118f448636e5319e37117,
     type: 3}
   invPanel: {fileID: 1881887634}
@@ -17921,7 +17922,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 8.16, y: 0}
-  m_SizeDelta: {x: -0.91, y: 10}
+  m_SizeDelta: {x: -0.91, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1881887636
 MonoBehaviour:

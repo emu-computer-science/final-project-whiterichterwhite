@@ -106,7 +106,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.44, y: -16.3}
+  m_AnchoredPosition: {x: 0.44, y: -17}
   m_SizeDelta: {x: 58.2, y: 18.12}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2729455990323798609
@@ -289,7 +289,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.4339623, g: 0.4339623, b: 0.4339623, a: 0.9529412}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -342,7 +342,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 5933604493105066582}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 114158042412019620}
+        m_MethodName: ClickedItem
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &114158042412019620
 MonoBehaviour:
   m_ObjectHideFlags: 0
