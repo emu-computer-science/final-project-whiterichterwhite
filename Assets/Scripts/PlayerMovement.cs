@@ -20,6 +20,8 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D playerBody;
     private Vector3 change;
     private Animator animator;
+    public PlayerVector startingPos;
+
     // Start is cal led before the first frame update
     void Start()
     {
@@ -28,6 +30,7 @@ public class PlayerMovement : MonoBehaviour
         playerBody = GetComponent<Rigidbody2D>();
         animator.SetFloat("moveX", 0);
         animator.SetFloat("moveY", -1);
+        transform.position = startingPos.startVal;
     }
 
     // Update is called once per frame
