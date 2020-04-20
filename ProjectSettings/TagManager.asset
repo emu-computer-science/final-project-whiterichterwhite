@@ -16,7 +16,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Enemy
   - 
   - 
   - 
@@ -49,4 +49,7 @@ TagManager:
     locked: 0
   - name: HiddenWall
     uniqueID: 961962479
+    locked: 0
+  - name: breakable
+    uniqueID: 1679532595
     locked: 0

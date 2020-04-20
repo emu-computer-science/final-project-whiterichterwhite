@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 5030994975822829468}
   - component: {fileID: 5030994975822829469}
   - component: {fileID: 5030994975822829466}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: logEnemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  maxHealth: {fileID: 0}
+  maxHealth: {fileID: 11400000, guid: 3ba0a034ec1eb6c47aaf421f71365632, type: 2}
   health: 2
   enemyName: Loggy
   baseAttack: 1
@@ -214,3 +214,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 4
   knockTime: 0.2
+  damage: 1

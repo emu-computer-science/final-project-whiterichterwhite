@@ -42,7 +42,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 68519d1e1886fc346b8cd5b205a1c1b7, type: 3}
-    totalSpriteSurfaceArea: 1460364
+    totalSpriteSurfaceArea: 1509798
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -1123,6 +1123,142 @@ SpriteAtlas:
   - {fileID: 21301246, guid: 975afc920f5f53d42b907d3629913272, type: 3}
   - {fileID: 21301346, guid: 975afc920f5f53d42b907d3629913272, type: 3}
   - {fileID: 21300258, guid: 975afc920f5f53d42b907d3629913272, type: 3}
+  - {fileID: 21300010, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300004, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300006, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300000, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300002, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300102, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300100, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300106, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300104, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300048, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300110, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300050, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300108, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300052, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300114, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300054, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300112, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300040, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300118, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300042, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300116, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300044, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300046, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300258, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300256, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300056, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300058, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300250, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300248, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300254, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300096, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300252, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300098, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300242, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300092, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300240, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300094, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300246, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300088, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300244, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300090, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300084, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300086, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300080, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300082, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300228, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300230, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300164, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300232, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300166, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300234, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300214, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300160, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300220, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300212, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300162, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300190, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300222, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300210, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300172, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300188, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300224, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300208, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300174, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300194, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300074, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300226, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300206, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300168, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300192, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300136, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300072, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300204, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300170, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300182, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300138, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300070, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300202, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300180, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300068, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300200, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300186, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300066, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300176, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300184, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300064, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300236, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300178, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300158, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300062, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300238, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300156, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300060, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300264, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300266, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300120, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300260, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300198, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300122, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300038, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300218, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300262, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300196, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300124, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300036, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300216, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300126, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300146, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300128, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300144, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300268, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300130, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300142, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300078, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300030, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300270, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300132, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300140, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300076, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300028, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300134, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300154, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300034, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300152, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300032, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300150, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300022, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300148, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300020, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300026, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300024, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300016, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300018, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300012, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300014, guid: 96674cd3c07774745b383034cba4284b, type: 3}
+  - {fileID: 21300008, guid: 96674cd3c07774745b383034cba4284b, type: 3}
   - {fileID: 21300000, guid: b5bc8504b15226840af3ce0b5f5bdb8c, type: 3}
   - {fileID: 21300014, guid: b2949cd4cef05ad4fbc3727c15ed42fa, type: 3}
   - {fileID: 21300012, guid: b2949cd4cef05ad4fbc3727c15ed42fa, type: 3}
@@ -2775,6 +2911,142 @@ SpriteAtlas:
   - Overworld_623
   - Overworld_673
   - Overworld_129
+  - Adventurer Sprite Sheet v1.1_5
+  - Adventurer Sprite Sheet v1.1_2
+  - Adventurer Sprite Sheet v1.1_3
+  - Adventurer Sprite Sheet v1.1_0
+  - Adventurer Sprite Sheet v1.1_1
+  - Adventurer Sprite Sheet v1.1_51
+  - Adventurer Sprite Sheet v1.1_50
+  - Adventurer Sprite Sheet v1.1_53
+  - Adventurer Sprite Sheet v1.1_52
+  - Adventurer Sprite Sheet v1.1_24
+  - Adventurer Sprite Sheet v1.1_55
+  - Adventurer Sprite Sheet v1.1_25
+  - Adventurer Sprite Sheet v1.1_54
+  - Adventurer Sprite Sheet v1.1_26
+  - Adventurer Sprite Sheet v1.1_57
+  - Adventurer Sprite Sheet v1.1_27
+  - Adventurer Sprite Sheet v1.1_56
+  - Adventurer Sprite Sheet v1.1_20
+  - Adventurer Sprite Sheet v1.1_59
+  - Adventurer Sprite Sheet v1.1_21
+  - Adventurer Sprite Sheet v1.1_58
+  - Adventurer Sprite Sheet v1.1_22
+  - Adventurer Sprite Sheet v1.1_23
+  - Adventurer Sprite Sheet v1.1_129
+  - Adventurer Sprite Sheet v1.1_128
+  - Adventurer Sprite Sheet v1.1_28
+  - Adventurer Sprite Sheet v1.1_29
+  - Adventurer Sprite Sheet v1.1_125
+  - Adventurer Sprite Sheet v1.1_124
+  - Adventurer Sprite Sheet v1.1_127
+  - Adventurer Sprite Sheet v1.1_48
+  - Adventurer Sprite Sheet v1.1_126
+  - Adventurer Sprite Sheet v1.1_49
+  - Adventurer Sprite Sheet v1.1_121
+  - Adventurer Sprite Sheet v1.1_46
+  - Adventurer Sprite Sheet v1.1_120
+  - Adventurer Sprite Sheet v1.1_47
+  - Adventurer Sprite Sheet v1.1_123
+  - Adventurer Sprite Sheet v1.1_44
+  - Adventurer Sprite Sheet v1.1_122
+  - Adventurer Sprite Sheet v1.1_45
+  - Adventurer Sprite Sheet v1.1_42
+  - Adventurer Sprite Sheet v1.1_43
+  - Adventurer Sprite Sheet v1.1_40
+  - Adventurer Sprite Sheet v1.1_41
+  - Adventurer Sprite Sheet v1.1_114
+  - Adventurer Sprite Sheet v1.1_115
+  - Adventurer Sprite Sheet v1.1_82
+  - Adventurer Sprite Sheet v1.1_116
+  - Adventurer Sprite Sheet v1.1_83
+  - Adventurer Sprite Sheet v1.1_117
+  - Adventurer Sprite Sheet v1.1_107
+  - Adventurer Sprite Sheet v1.1_80
+  - Adventurer Sprite Sheet v1.1_110
+  - Adventurer Sprite Sheet v1.1_106
+  - Adventurer Sprite Sheet v1.1_81
+  - Adventurer Sprite Sheet v1.1_95
+  - Adventurer Sprite Sheet v1.1_111
+  - Adventurer Sprite Sheet v1.1_105
+  - Adventurer Sprite Sheet v1.1_86
+  - Adventurer Sprite Sheet v1.1_94
+  - Adventurer Sprite Sheet v1.1_112
+  - Adventurer Sprite Sheet v1.1_104
+  - Adventurer Sprite Sheet v1.1_87
+  - Adventurer Sprite Sheet v1.1_97
+  - Adventurer Sprite Sheet v1.1_37
+  - Adventurer Sprite Sheet v1.1_113
+  - Adventurer Sprite Sheet v1.1_103
+  - Adventurer Sprite Sheet v1.1_84
+  - Adventurer Sprite Sheet v1.1_96
+  - Adventurer Sprite Sheet v1.1_68
+  - Adventurer Sprite Sheet v1.1_36
+  - Adventurer Sprite Sheet v1.1_102
+  - Adventurer Sprite Sheet v1.1_85
+  - Adventurer Sprite Sheet v1.1_91
+  - Adventurer Sprite Sheet v1.1_69
+  - Adventurer Sprite Sheet v1.1_35
+  - Adventurer Sprite Sheet v1.1_101
+  - Adventurer Sprite Sheet v1.1_90
+  - Adventurer Sprite Sheet v1.1_34
+  - Adventurer Sprite Sheet v1.1_100
+  - Adventurer Sprite Sheet v1.1_93
+  - Adventurer Sprite Sheet v1.1_33
+  - Adventurer Sprite Sheet v1.1_88
+  - Adventurer Sprite Sheet v1.1_92
+  - Adventurer Sprite Sheet v1.1_32
+  - Adventurer Sprite Sheet v1.1_118
+  - Adventurer Sprite Sheet v1.1_89
+  - Adventurer Sprite Sheet v1.1_79
+  - Adventurer Sprite Sheet v1.1_31
+  - Adventurer Sprite Sheet v1.1_119
+  - Adventurer Sprite Sheet v1.1_78
+  - Adventurer Sprite Sheet v1.1_30
+  - Adventurer Sprite Sheet v1.1_132
+  - Adventurer Sprite Sheet v1.1_133
+  - Adventurer Sprite Sheet v1.1_60
+  - Adventurer Sprite Sheet v1.1_130
+  - Adventurer Sprite Sheet v1.1_99
+  - Adventurer Sprite Sheet v1.1_61
+  - Adventurer Sprite Sheet v1.1_19
+  - Adventurer Sprite Sheet v1.1_109
+  - Adventurer Sprite Sheet v1.1_131
+  - Adventurer Sprite Sheet v1.1_98
+  - Adventurer Sprite Sheet v1.1_62
+  - Adventurer Sprite Sheet v1.1_18
+  - Adventurer Sprite Sheet v1.1_108
+  - Adventurer Sprite Sheet v1.1_63
+  - Adventurer Sprite Sheet v1.1_73
+  - Adventurer Sprite Sheet v1.1_64
+  - Adventurer Sprite Sheet v1.1_72
+  - Adventurer Sprite Sheet v1.1_134
+  - Adventurer Sprite Sheet v1.1_65
+  - Adventurer Sprite Sheet v1.1_71
+  - Adventurer Sprite Sheet v1.1_39
+  - Adventurer Sprite Sheet v1.1_15
+  - Adventurer Sprite Sheet v1.1_135
+  - Adventurer Sprite Sheet v1.1_66
+  - Adventurer Sprite Sheet v1.1_70
+  - Adventurer Sprite Sheet v1.1_38
+  - Adventurer Sprite Sheet v1.1_14
+  - Adventurer Sprite Sheet v1.1_67
+  - Adventurer Sprite Sheet v1.1_77
+  - Adventurer Sprite Sheet v1.1_17
+  - Adventurer Sprite Sheet v1.1_76
+  - Adventurer Sprite Sheet v1.1_16
+  - Adventurer Sprite Sheet v1.1_75
+  - Adventurer Sprite Sheet v1.1_11
+  - Adventurer Sprite Sheet v1.1_74
+  - Adventurer Sprite Sheet v1.1_10
+  - Adventurer Sprite Sheet v1.1_13
+  - Adventurer Sprite Sheet v1.1_12
+  - Adventurer Sprite Sheet v1.1_8
+  - Adventurer Sprite Sheet v1.1_9
+  - Adventurer Sprite Sheet v1.1_6
+  - Adventurer Sprite Sheet v1.1_7
+  - Adventurer Sprite Sheet v1.1_4
   - font
   - ZombieWalk_7
   - ZombieWalk_6
